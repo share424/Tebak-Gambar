@@ -2,10 +2,15 @@
 Sebuah aplikasi sederhana yang dapat menebak gambar yang dibuat oleh user menggunakan AI.
 
 # Sistem Requirement
-- (Python 3)[https://www.python.org/]
-- (Pillow)[https://python-pillow.org/]
-- (Numpy)[https://numpy.org/]
-- (Sklearn)[https://scikit-learn.org/stable/index.html]
+- [Python 3](https://www.python.org/)
+- [Pillow](https://python-pillow.org/)
+- [Numpy](https://numpy.org/)
+- [Sklearn](https://scikit-learn.org/stable/index.html)
+
+# Cara Install
+```
+pip install requirements.txt
+```
 
 # Cara Menjalankan
 ```
