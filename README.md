@@ -1,11 +1,11 @@
 # Tebak Gambar
 Sebuah aplikasi sederhana yang dapat menebak gambar yang dibuat oleh user menggunakan AI.
 
-# Sistem Requirement
+# Tools/Library Yang Digunakan
 - [Python 3](https://www.python.org/)
 - [Pillow](https://python-pillow.org/)
 - [Numpy](https://numpy.org/)
-- [Sklearn](https://scikit-learn.org/stable/index.html)
+- [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 
 # Cara Install
 ```
