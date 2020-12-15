@@ -9,7 +9,7 @@ Sebuah aplikasi sederhana yang dapat menebak gambar yang dibuat oleh user menggu
 
 # Cara Install
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Cara Menjalankan
